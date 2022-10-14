@@ -1,2 +1,2 @@
 ## Interface
-Java packages containing files 
+Java packages, with classes 
