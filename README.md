@@ -1,2 +1,2 @@
 ## Interface
-Java packages, with classes  
+Java packages, with classes that exhibit the diffre
