@@ -1,2 +1,2 @@
 ## Interface
-Packages, with classes that
+Packages, with Java classes that
