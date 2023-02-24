@@ -1,6 +1,6 @@
 package interfaces;
 
-public abstract class Bus {//
+public abstract class Bus {
 	private int ID;
 	private int capacity;
 	private double cost;
