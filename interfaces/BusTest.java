@@ -1,7 +1,6 @@
 package interfaces;
 import java.util.*;
-public class BusTest {//jk
-
+public class BusTest {//j
 	public static void main(String[] args) {
 		Hybrid hybrid1 = new Hybrid(45, 1.2, 600, 150, 1);
 		CNGBus cngbus1 = new CNGBus(50,1.00,200,2);
